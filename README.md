@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 sarvagyaofficial1@gmail.com
 
 <!---
 Sarvagya-10/Sarvagya-10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
